@@ -1,4 +1,4 @@
 # Git-demo
 This is a demo repository
 <br>
-author : Shreya Raut
+Author : Shreya Raut
